@@ -1,0 +1,14 @@
+{
+  "name": "opentravel",
+  "version": "1.0.0",
+  "description": "A collection of travel related data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tuan Anh Tran <me@tuananh.org> (https://tuananh.org)",
+  "license": "MIT",
+  "dependencies": {
+    "x-ray": "2.3.1"
+  }
+}
