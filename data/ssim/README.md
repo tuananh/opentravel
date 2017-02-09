@@ -22,6 +22,9 @@ If an airline requests larger blocking factors the block is still only padded to
 
 ### Header Record – Record Type 2
 
+The record gives an indication of the period(s) of applicability of the schedules that follow on subsequent records. The record has the standard length of 200 bytes broken into the following fields:
+
+
 ### Header Record – Record Type 3
 
 ### Header Record – Record Type 4
