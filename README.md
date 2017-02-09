@@ -10,6 +10,10 @@ See [`data/airlines`](data/airlines)
 
 See [`data/iata`](data/iata/)
 
+## SSIM sample file and format specifications
+
+See [`data/ssim`](data/ssim)
+
 ## References
 
 - [OpenFlights](http://openflights.org/data.html)

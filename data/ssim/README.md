@@ -19,3 +19,11 @@ The record has a standard length of 200 bytes broken into the following fields. 
 This block is then padded to the standard length (5 x 200 bytes), zoned, spaced or binary zeros may be used depending on parameter request.
 
 If an airline requests larger blocking factors the block is still only padded to this standard length.
+
+### Header Record – Record Type 2
+
+### Header Record – Record Type 3
+
+### Header Record – Record Type 4
+
+### Header Record – Record Type 5
