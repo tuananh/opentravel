@@ -4,4 +4,4 @@
 
 - OpenFlights: [OpenFlights airports list](http://openflights.org/data.html)
 
-- Sabre Airports: [Sabre airports list](git@github.com:tuananh/opentravel.git)
+- Sabre Airports: [Sabre airports list](https://github.com/SabreDevStudio/airports)
